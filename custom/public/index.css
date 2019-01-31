@@ -1,0 +1,15 @@
+a {
+    color: black !important;
+}
+    
+a:hover {
+    color: #4285f4 !important;
+}
+    
+.feeds .list ul li.private {
+    background-color: #ebebeb;
+}
+
+footer {
+    display: none !important;
+}
